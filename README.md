@@ -13,5 +13,6 @@ array ingresado por el usuario:[1,sffa,0.32,234,567,213,46,4,2,4 6,9] -> array f
 -en este repositorio dentro de la carpeta pricipal se encuentran dos archivos los cuales son Main.kt que contiene el codigo del programa y Main.jar que es el archivo que se ejecuta en vs code
 
 para ejecutar el Main.jar dentro de vs code se puede abrir una terminal o directamente se puede abrir una terminal desde la ruta de la capeta y se tiene que ejecutar el siguiente comando
-### java -jar Main.jar   este comando ejecutara el programa en la consola permitiendo la entrada de datos ingresados por el usuario
+### java -jar Main.jar   
+este comando ejecutara el programa en la consola permitiendo la entrada de datos ingresados por el usuario
 
